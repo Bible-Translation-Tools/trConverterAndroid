@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name" comment="BTT Converter is a name and should not be translated">BTT Converter</string>
+    <string name="app_info" comment="BTT Converter is a name and should not be translated">BTT Converter v.1.6.4</string>
+    <string name="convert">Chuyển đổi</string>
+    <string name="analyze">Phân tích</string>
+    <string name="transform">Biến đổi</string>
+    <string name="processing">Đang xử lý…</string>
+    <string name="analyzing">Đang phân tích…</string>
+    <string name="grant_permission">Bạn phải cấp quyền ghi!</string>
+    <string name="empty_modes">Không tìm thấy file âm thanh!</string>
+    <string name="set_modes">Đặt chế độ cho những sách được đánh dấu đỏ và nhấn Chuyển đổi!</string>
+    <string name="conversion_complete">Chuyển đổi hoàn tất: <xliff:g example="25" id="number">%1$d</xliff:g> file đã được thay đổi.</string>
+    <string name="transformation_complete">Biến đổi hoàn tất: <xliff:g example="25" id="number">%1$d</xliff:g> file đã được thay đổi.</string>
+    <string name="error_occurred">Đã xảy ra lỗi.</string>
+    <string name="set_fields">Đảm bảo rằng bạn đã đặt tất cả các giá trị</string>
+    <string name="verse">câu</string>
+    <string name="chunk">đoạn</string>
+    <string name="edit">chỉnh sửa</string>
+    <string name="project">dự án</string>
+    <string name="enter_language">Nhập Mã Ngôn ngữ (en, fr, vi,...)</string>
+    <string name="enter_version">Nhập Mã Phiên bản (ulb, udb, reg, …)</string>
+    <string name="migrate" comment="BTT Recorder is a name and should not be translated">Di chuyển sang BTT Recorder</string>
+    <string name="migrate_message" comment="TranslationRecorder, BTT Recorder, BttRecorder are names and should not be translated">Chúng tôi tìm thấy thư mục TranslationRecorder trên thiết bị của bạn. Nếu bạn đã cài ứng dụng BTT Recorder, hãy đổi tên thư mục này thành BttRecorder.</string>
+    <string name="proceed">Tiến hành</string>
+    <string name="cancel">Huỷ</string>
+    <string name="migrating">Đang di chuyển</string>
+    <string name="migration_error" comment="BttRecorder is a directory name and should not be translated">Di chuyển thất bại. Thư mục BttRecorder đã tồn tại trên thiết bị của bạn.</string>
+    <string name="migration_success">Di chuyển thành công!</string>
+    <string name="select_version">Chọn Phiên bản</string>
+    <string name="select_language">Chọn ngôn ngữ</string>
+    <string name="all_books_check">Biến đổi tất cả các sách trong dự án (<xliff:g example="en | ulb" id="project">%1$s</xliff:g>)</string>
+</resources>
