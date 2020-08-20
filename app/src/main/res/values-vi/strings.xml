@@ -4,14 +4,14 @@
     <string name="app_info">BTT Converter v.1.6.4</string>
     <string name="convert">Chuyển đổi</string>
     <string name="analyze">Phân tích</string>
-    <string name="transform">Biến đổi</string>
+    <string name="transform">Sửa đổi</string>
     <string name="processing">Đang xử lý…</string>
     <string name="analyzing">Đang phân tích…</string>
     <string name="grant_permission">Bạn phải cấp quyền ghi!</string>
     <string name="empty_modes">Không tìm thấy file âm thanh!</string>
     <string name="set_modes">Đặt chế độ cho những sách được đánh dấu đỏ và nhấn Chuyển đổi!</string>
     <string name="conversion_complete">Chuyển đổi hoàn tất: <xliff:g example="25" id="number">%1$d</xliff:g> file đã được thay đổi.</string>
-    <string name="transformation_complete">Biến đổi hoàn tất: <xliff:g example="25" id="number">%1$d</xliff:g> file đã được thay đổi.</string>
+    <string name="transformation_complete">Sửa đổi hoàn tất: <xliff:g example="25" id="number">%1$d</xliff:g> file đã được thay đổi.</string>
     <string name="error_occurred">Đã xảy ra lỗi.</string>
     <string name="set_fields">Đảm bảo rằng bạn đã đặt tất cả các giá trị</string>
     <string name="verse">câu</string>
