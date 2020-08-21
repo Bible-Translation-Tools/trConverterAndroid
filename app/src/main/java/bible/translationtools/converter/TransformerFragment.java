@@ -116,6 +116,7 @@ public class TransformerFragment extends Fragment implements TransformerTask.Tra
 
         buttonText = getString(R.string.transform); // Default value
         languageSpinner.setTitle(getString(R.string.select_language));
+        languageSpinner.setPositiveButton(getString(R.string.close));
 
         init();
     }
