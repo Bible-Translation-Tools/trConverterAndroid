@@ -29,5 +29,5 @@
     <string name="migration_success">Di chuyển thành công!</string>
     <string name="select_version">Chọn Phiên bản</string>
     <string name="select_language">Chọn ngôn ngữ</string>
-    <string name="all_books_check">Biến đổi tất cả các sách trong dự án (<xliff:g example="en | ulb" id="project">%1$s</xliff:g>)</string>
+    <string name="all_books_check">Sửa đổi tất cả các sách trong dự án (<xliff:g example="en | ulb" id="project">%1$s</xliff:g>)</string>
 </resources>
