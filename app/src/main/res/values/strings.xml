@@ -29,4 +29,5 @@
     <string name="select_version">Select version</string>
     <string name="select_language">Select language</string>
     <string name="all_books_check">Transform all books under project (<xliff:g example="en | ulb" id="project">%1$s</xliff:g>)</string>
+    <string name="close">Close</string>
 </resources>
