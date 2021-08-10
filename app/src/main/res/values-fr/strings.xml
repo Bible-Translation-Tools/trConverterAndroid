@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
     <string name="app_name">BTT Converter</string>
-    <string name="app_info">BTT Converter v.1.6.4</string>
+    <string name="app_info">BTT Convertisseur v.1.6.4</string>
     <string name="convert">Convertir</string>
     <string name="analyze">Analyser</string>
     <string name="transform">Transformer</string>
-    <string name="processing">Processing…</string>
-    <string name="analyzing">Analyzing…</string>
-    <string name="grant_permission">You have to grant write permission!</string>
-    <string name="empty_modes">No audio files found!</string>
-    <string name="set_modes">Set mode for books marked in red and tap Convert!</string>
-    <string name="conversion_complete">Conversion complete: <xliff:g example="25" id="number">%1$d</xliff:g> files have been affected.</string>
-    <string name="transformation_complete">Transformation complete: <xliff:g example="25" id="number">%1$d</xliff:g> files have been affected.</string>
-    <string name="error_occurred">An error occurred.</string>
-    <string name="set_fields">Make sure that you have properly set all the values</string>
-    <string name="verse">verse</string>
-    <string name="chunk">chunk</string>
-    <string name="edit">edit</string>
-    <string name="project">project</string>
-    <string name="enter_language">Enter Language Code (en, fr, es-419, …)</string>
-    <string name="enter_version">Enter Version Code (ulb, udb, reg, …)</string>
-    <string name="migrate">Migrate to BTT Recorder</string>
-    <string name="migrate_message">We found TranslationRecorder directory on your device. If you have BTT Recorder app installed, it is recommended to rename this directory to BttRecorder.</string>
-    <string name="proceed">Proceed</string>
-    <string name="cancel">Cancel</string>
-    <string name="migrating">Migrating</string>
-    <string name="migration_error">Migration failed. BttRecorder directory is already on your device.</string>
-    <string name="migration_success">Migration has been successfully completed!</string>
-    <string name="select_version">Select version</string>
-    <string name="select_language">Select language</string>
-    <string name="all_books_check">Transform all books under project (<xliff:g example="en | ulb" id="project">%1$s</xliff:g>)</string>
-    <string name="close">Close</string>
+    <string name="processing">Traitement en cours…</string>
+    <string name="analyzing">Analyse en cours…</string>
+    <string name="grant_permission">Vous devez accorder la permission d\'écriture !</string>
+    <string name="empty_modes">Fichiers audio introuvables!</string>
+    <string name="set_modes">Définir le mode pour les livres marqués en rouge et appuyez sur Convertir!</string>
+    <string name="conversion_complete">Conversion terminée : <xliff:g example="25" id="number">%1$d</xliff:g> fichiers ont été affectés.</string>
+    <string name="transformation_complete">Transformation terminée : <xliff:g example="25" id="number">%1$d</xliff:g> fichiers ont été affectés.</string>
+    <string name="error_occurred">Une erreur est survenue.</string>
+    <string name="set_fields">Assurez-vous d\'avoir bien défini toutes les valeurs</string>
+    <string name="verse">verset</string>
+    <string name="chunk">morceau</string>
+    <string name="edit">editer</string>
+    <string name="project">projet</string>
+    <string name="enter_language">Entrez le Code de langue (en, fr, es-419, …)</string>
+    <string name="enter_version">Entrez le Code de Version (ulb, udb, reg, …)</string>
+    <string name="migrate">Migrer vers l\'enregistreur BTT</string>
+    <string name="migrate_message">Nous avons trouvé le répertoire TranslationEnregistreur sur votre appareil. Si l\'application BTT Enregistreur est installée, il est recommandé de renommer ce répertoire en BttEnregistreur.</string>
+    <string name="proceed">Continuer</string>
+    <string name="cancel">Annuler</string>
+    <string name="migrating">Migration en cours</string>
+    <string name="migration_error">La migration a échoué. Le répertoire BttEnregistreur est déjà sur votre appareil.</string>
+    <string name="migration_success">La migration a été terminée avec succès !</string>
+    <string name="select_version">Sélectionner la version</string>
+    <string name="select_language">Choisir une langue</string>
+    <string name="all_books_check">Transformer tous les livres dans le cadre du projet (<xliff:g example="en | ulb" id="project">%1$s</xliff:g>)</string>
+    <string name="close">Fermer</string>
 </resources>
