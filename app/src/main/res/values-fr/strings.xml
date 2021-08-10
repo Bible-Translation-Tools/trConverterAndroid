@@ -4,7 +4,7 @@
     <string name="app_info">BTT Converter v.1.6.4</string>
     <string name="convert">Convertir</string>
     <string name="analyze">Analyser</string>
-    <string name="transform">Transform</string>
+    <string name="transform">Transformer</string>
     <string name="processing">Processing…</string>
     <string name="analyzing">Analyzing…</string>
     <string name="grant_permission">You have to grant write permission!</string>
