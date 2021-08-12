@@ -20,12 +20,12 @@
     <string name="project">projet</string>
     <string name="enter_language">Entrez le Code de langue (en, fr, es-419, …)</string>
     <string name="enter_version">Entrez le Code de Version (ulb, udb, reg, …)</string>
-    <string name="migrate">Migrer vers l\'enregistreur BTT</string>
-    <string name="migrate_message">Nous avons trouvé le répertoire TranslationEnregistreur sur votre appareil. Si l\'application BTT Enregistreur est installée, il est recommandé de renommer ce répertoire en BttEnregistreur.</string>
+    <string name="migrate">Migrer vers BTT Recorder</string>
+    <string name="migrate_message">Nous avons trouvé le répertoire TranslationRecorder sur votre appareil. Si l\'application BTT Recorder est installée, il est recommandé de renommer ce répertoire en BttRecorder.</string>
     <string name="proceed">Continuer</string>
     <string name="cancel">Annuler</string>
     <string name="migrating">Migration en cours</string>
-    <string name="migration_error">La migration a échoué. Le répertoire BttEnregistreur est déjà sur votre appareil.</string>
+    <string name="migration_error">La migration a échoué. Le répertoire BttRecorder est déjà sur votre appareil.</string>
     <string name="migration_success">La migration a été terminée avec succès !</string>
     <string name="select_version">Sélectionner la version</string>
     <string name="select_language">Choisir une langue</string>
