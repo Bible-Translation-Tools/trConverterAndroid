@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
     <string name="app_name">BTT Converter</string>
-    <string name="app_info">BTT Convertisseur v.1.6.4</string>
+    <string name="app_info">BTT Converter v.1.6.4</string>
     <string name="convert">Convertir</string>
     <string name="analyze">Analyser</string>
     <string name="transform">Transformer</string>
